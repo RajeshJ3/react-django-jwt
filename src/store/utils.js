@@ -1,1 +1,1 @@
-export const DOMAIN="https://api.staging.99coupons.ml"
+export const DOMAIN="https://api-staging.99coupons.ml"
